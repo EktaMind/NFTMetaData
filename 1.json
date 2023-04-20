@@ -1,0 +1,8 @@
+{
+"name":"FirstShipment",
+"customerId":"Cust123",
+"shipmentId":"Ship123",
+"billOfLading":"BL10001",
+"letterOfAssurance":"Qaasdadadasdad",
+"suppliers": [{"umlId:UML100, millName:Apical"},{"umlId:UML101, millName:TestApical"}]
+}
