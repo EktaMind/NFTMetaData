@@ -1,8 +1,13 @@
 {
-"name":"FirstShipment",
+"BillOfLading":"BL0001",
+"shipmentDate":"19/04/2023",
 "customerId":"Cust123",
 "shipmentId":"Ship123",
-"billOfLading":"BL10001",
+"shipmentVolume":452,
+"refineryId":"Ref123",
 "letterOfAssurance":"Qaasdadadasdad",
-"suppliers": [{"umlId:UML100, millName:Apical"},{"umlId:UML101, millName:TestApical"}]
+"Status":"Dispatched",
+"NumberOfMills":"2",
+"AggregatedProfile":[{"Deforestation:free"},{"GrevianceStatus:No"}],
+"suppliers": [{"UML100, Apical,1"},{"UML101, TestApical , 2"}]
 }
