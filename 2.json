@@ -1,0 +1,17 @@
+{
+"name": "Shipment Second",
+"description": "This image shows the true nature of shipment.",
+"image": "https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
+"BillOfLading":"BL0001",
+"shipmentDate":"19/04/2023",
+"customerId":"Cust123",
+"shipmentId":"Ship1245",
+"shipmentVolume":452,
+"refineryId":"Ref123",
+"letterOfAssurance":"https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
+"Status":"Dispatched",
+"NumberOfMills":"1",
+"AggregatedProfile":[{"Deforestation:free"},{"GrevianceStatus:No"}],
+"suppliers": [{"UML100, Apical,TokenId01"}]
+}
+
