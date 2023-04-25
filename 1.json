@@ -5,9 +5,9 @@
 "shipmentId":"Ship123",
 "shipmentVolume":452,
 "refineryId":"Ref123",
-"letterOfAssurance":"Qaasdadadasdad",
+"letterOfAssurance":"https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
 "Status":"Dispatched",
 "NumberOfMills":"2",
 "AggregatedProfile":[{"Deforestation:free"},{"GrevianceStatus:No"}],
-"suppliers": [{"UML100, Apical,1"},{"UML101, TestApical , 2"}]
+"suppliers": [{"UML100, Apical,TokenId01"},{"UML101, TestApical , TokenId02"}]
 }
