@@ -1,13 +1,45 @@
 {
-"BillOfLading":"BL0001",
-"shipmentDate":"19/04/2023",
-"customerId":"Cust123",
-"shipmentId":"Ship123",
-"shipmentVolume":452,
-"refineryId":"Ref123",
-"letterOfAssurance":"https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
-"Status":"Dispatched",
-"NumberOfMills":"2",
-"AggregatedProfile":[{"Deforestation:free"},{"GrevianceStatus:No"}],
-"suppliers": [{"UML100, Apical,TokenId01"},{"UML101, TestApical , TokenId02"}]
+  "description": "Shipment ERC721 to track shipment profiles", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY", 
+  "name": "Test Shipment",
+  "suppliers": [{"UML100, Apical,TokenId01"},{"UML101, TestApical , TokenId02"}],
+  "attributes": [ 
+    { 
+      "trait_type": "CID OF Letter Of Assurance", 
+      "value": "QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY" 
+    }, 
+    { 
+      "trait_type": "BillOfLading", 
+      "value": "BL0001" 
+    }, 
+    { 
+      "trait_type": "shipmentDate", 
+      "value": "19/04/2023" 
+    }, 
+    { 
+      "trait_type": "customerId", 
+      "value": "Cust123" 
+    }, 
+    { 
+      "trait_type": "refineryId", 
+      "value": "Ref123" 
+    },
+    { 
+      "trait_type": "Status", 
+      "value": "CREATED" 
+    },
+    { 
+      "trait_type": "Deforestation", 
+      "value": "FREE" 
+    },
+    { 
+      "trait_type": "GrevianceStatus", 
+      "value": "No" 
+    },
+    { 
+      "display_type": "number", 
+      "trait_type": "shipmentVolume", 
+      "value": 452
+    } 
+  ] 
 }
