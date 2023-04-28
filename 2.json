@@ -1,17 +1,22 @@
 {
-"name": "Shipment Second",
-"description": "This image shows the true nature of shipment.",
-"image": "https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
-"BillOfLading":"BL0001",
-"shipmentDate":"19/04/2023",
-"customerId":"Cust123",
-"shipmentId":"Ship1245",
-"shipmentVolume":452,
-"refineryId":"Ref123",
-"letterOfAssurance":"https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
-"Status":"Dispatched",
-"NumberOfMills":"1",
-"AggregatedProfile":[{"Deforestation:free"},{"GrevianceStatus:No"}],
-"suppliers": [{"UML100, Apical,TokenId01"}]
+"Name":"Customer Shipment",
+"Description":"This token is issued to validate the shipment and mill profiles",
+"image":"https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
+"BillOfLading":"BL10002",
+"ContractNumber":"4354543",
+"ShipmentDate":"10/04/2023",
+"ShipmentStatus:":"CREATED",
+"ShipmentQuantity":8000,
+"ShipperName":"Shipper Name",
+"RefineryId":"REF1",
+"CustomerId":"CUST1",
+"ShipmentId":"SHIP2",
+"CIDLetterOfAssurance":"QGJHGJHGJHGMMBMBHKHHKMBNNVNCETREET",
+"AllocationStatus":"APPROVED",
+"NumberOfMills":2,
+"AggregatorProfile":[{"Traceability to Plantation":"100%","NDPE IRF":"DELIVERING","Deforestation Status":"FREE","Certification":"RSPO Certified","Grivence Status":"NO","Satellite Monitoring":"100%"}],
+"Suppliers":[{"UMLID":"ML1002","Mill Type":"Mill Type","Parent Group":"PG1001","location":"AUTRALIA","Percentage Allocation":"50%", "Allocation Qunatity":1000},
+             {"UMLID":"ML1005","Mill Type":"New Type","Parent Group":"PG1002","location":"US","Percentage Allocation":"80%", "Allocation Qunatity":5000}]
 }
 
+ 
