@@ -1,0 +1,21 @@
+{
+"Name":"Customer Shipment",
+"Description":"This token is issued to validate the shipment and mill profiles",
+"image":"https://gateway.pinata.cloud/ipfs/QmQWw2ywXnCKBSdCT8MKQ3hf6Cd1zVCXgEaLTJQHSL7psY",
+"BillOfLading":"BL10001",
+"ContractNumber":"4354545",
+"ShipmentDate":"01/04/2023",
+"ShipmentStatus:":"CREATED",
+"ShipmentQuantity":8000,
+"ShipperName":"Shipper Name",
+"CustomerId":"CUST1",
+"ShipmentId":"SHIP1",
+"RefineryId":"REF1",
+"CIDLetterOfAssurance":"QGJHGJHGJHGMMBMBHKHHKMBNNVNCETREET",
+"AllocationStatus":"APPROVED",
+"NumberOfMills":1,
+"AggregatorProfile":[{"Traceability to Plantation":"100%","NDPE IRF":"DELIVERING","Deforestation Status":"FREE","Certification":"RSPO Certified","Grivence Status":"NO","Satellite Monitoring":"100%"}],
+"Suppliers":[{"UMLID":"ML1001","Mill Type":"Mill Type","Parent Group":"PG1001","location":"US","Percentage Allocation":"100%", "Allocation Qunatity":1000}]
+}
+
+ 
